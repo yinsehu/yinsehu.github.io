@@ -83,6 +83,28 @@
     
     
     <entry>
+      <title>电影</title>
+      <link href="/movie/index.html"/>
+      <url>/movie/index.html</url>
+      
+        <content type="html"><![CDATA[<p>好康的电影！</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<p>唱跳rap篮球，music!</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>标题</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
