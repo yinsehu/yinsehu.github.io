@@ -20,7 +20,16 @@
   </url>
   
   <url>
-    <loc>https://yinsehu.github.io/undefined/7ab68e54.html</loc>
+    <loc>https://yinsehu.github.io/undefined/7633eb2d.html</loc>
+    
+    <lastmod>2022-09-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yinsehu.github.io/undefined/35ea9aab.html</loc>
     
     <lastmod>2022-09-22</lastmod>
     
@@ -36,6 +45,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://yinsehu.github.io/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98-%E7%99%BE%E5%BA%A6-%E7%A0%81%E5%86%9C/</loc>
+    <lastmod>2022-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
