@@ -6,7 +6,7 @@
   <link href="https://polyueie.fun/atom.xml" rel="self"/>
   
   <link href="https://polyueie.fun/"/>
-  <updated>2022-09-23T23:29:46.039Z</updated>
+  <updated>2022-09-23T23:35:19.138Z</updated>
   <id>https://polyueie.fun/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>黑马力扣课程</title>
+    <link href="https://polyueie.fun/undefined/ad261558.html"/>
+    <id>https://polyueie.fun/undefined/ad261558.html</id>
+    <published>2022-09-24T07:10:10.000Z</published>
+    <updated>2022-09-23T23:35:19.138Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="玩转算法面试"><a href="#玩转算法面试" class="headerlink" title="玩转算法面试"></a>玩转算法面试</h1><h2 id="算法面试介绍"><a href="#算法面试介绍" class="headerlink" title="算法面试介绍"></a>算法面试介绍</h2><h3 id="课程目标"><a href="#课程目标" class="headerlink" title="课程目标"></a>课程目标</h3><p>帮助大家在面对不同算法问题时，有想法，有思路<br>面对算法笔试、面试不再畏惧<br>在日后的面试、工作中能够体现出具备应用基本算法解决问题的素质</p><h3 id="语言选择"><a href="#语言选择" class="headerlink" title="语言选择"></a>语言选择</h3><p>Python 作为实现语言</p><h3 id="正确看待算法面试"><a href="#正确看待算法面试" class="headerlink" title="正确看待算法面试"></a>正确看待算法面试</h3><p>面试 ≠ 考试，不一定要求大家给出一个“正确”答案，有正确合适的思考方向更加重要<br> 不可能刷遍所有的题，总有没见过的，有思路是前提<br> 在算法面试中，展示出自己有应用算法解决问题的能力更重要</p><h2 id="算法复杂度介绍"><a href="#算法复杂度介绍" class="headerlink" title="算法复杂度介绍"></a>算法复杂度介绍</h2><h2 id="基础算法介绍"><a href="#基础算法介绍" class="headerlink" title="基础算法介绍"></a>基础算法介绍</h2><h3 id="常见排序算法"><a href="#常见排序算法" class="headerlink" title="常见排序算法"></a>常见排序算法</h3><h3 id="常见查找算法"><a href="#常见查找算法" class="headerlink" title="常见查找算法"></a>常见查找算法</h3><h2 id="经典算法题解析"><a href="#经典算法题解析" class="headerlink" title="经典算法题解析"></a>经典算法题解析</h2><h3 id="数组相关问题"><a href="#数组相关问题" class="headerlink" title="数组相关问题"></a>数组相关问题</h3><h3 id="字符串相关问题"><a href="#字符串相关问题" class="headerlink" title="字符串相关问题"></a>字符串相关问题</h3><h3 id="查找相关问题"><a href="#查找相关问题" class="headerlink" title="查找相关问题"></a>查找相关问题</h3><h3 id="链表相关问题"><a href="#链表相关问题" class="headerlink" title="链表相关问题"></a>链表相关问题</h3><h3 id="栈、队列相关问题"><a href="#栈、队列相关问题" class="headerlink" title="栈、队列相关问题"></a>栈、队列相关问题</h3><h3 id="二叉树"><a href="#二叉树" class="headerlink" title="二叉树"></a>二叉树</h3><h3 id="回溯"><a href="#回溯" class="headerlink" title="回溯"></a>回溯</h3><h3 id="动态规划"><a href="#动态规划" class="headerlink" title="动态规划"></a>动态规划</h3><h3 id="贪心算法"><a href="#贪心算法" class="headerlink" title="贪心算法"></a>贪心算法</h3>]]></content>
+    
+    
+    <summary type="html">黑马程序员力扣刷题班</summary>
+    
+    
+    
+    
+    <category term="黑马leetcode" scheme="https://polyueie.fun/tags/%E9%BB%91%E9%A9%ACleetcode/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://polyueie.fun/undefined/4a17b156.html"/>
     <id>https://polyueie.fun/undefined/4a17b156.html</id>
-    <published>2022-09-23T23:29:46.039Z</published>
-    <updated>2022-09-23T23:29:46.039Z</updated>
+    <published>2022-09-23T23:35:19.138Z</published>
+    <updated>2022-09-23T23:35:19.138Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -33,6 +52,44 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>一些阿里云盘链接</title>
+    <link href="https://polyueie.fun/undefined/1d29f315.html"/>
+    <id>https://polyueie.fun/undefined/1d29f315.html</id>
+    <published>2022-09-23T19:10:10.000Z</published>
+    <updated>2022-09-23T23:35:19.138Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="资料库50T大合集"><a href="#资料库50T大合集" class="headerlink" title="资料库50T大合集"></a>资料库50T大合集</h3><p><mark class="hl-label blue">链接：</mark>  <a href="https://www.aliyundrive.com/s/KhXmvr9urjk">https://www.aliyundrive.com/s/KhXmvr9urjk</a></p><h3 id="短视频剪辑"><a href="#短视频剪辑" class="headerlink" title="短视频剪辑"></a>短视频剪辑</h3><p><mark class="hl-label blue">链接：</mark>  <a href="https://www.aliyundrive.com/s/ntG4kk7mSKL">https://www.aliyundrive.com/s/ntG4kk7mSKL</a></p><h3 id="20T的电子书库"><a href="#20T的电子书库" class="headerlink" title="20T的电子书库"></a>20T的电子书库</h3><p><mark class="hl-label blue">链接：</mark>  <a href="https://www.aliyundrive.com/s/DZyMTzNb2H5/folder/62c7bd377a973ce1cc624b5bbce2b50807c5fee6">https://www.aliyundrive.com/s/DZyMTzNb2H5/folder/62c7bd377a973ce1cc624b5bbce2b50807c5fee6</a></p><h3 id="周杰伦MV"><a href="#周杰伦MV" class="headerlink" title="周杰伦MV"></a>周杰伦MV</h3><p><mark class="hl-label blue">链接：</mark>  <a href="https://www.aliyundrive.com/s/bU6LnXbghCU">https://www.aliyundrive.com/s/bU6LnXbghCU</a></p><h3 id="写作，文案教程"><a href="#写作，文案教程" class="headerlink" title="写作，文案教程"></a>写作，文案教程</h3><p><mark class="hl-label blue">链接：</mark>  <a href="https://www.aliyundrive.com/s/f5ps2gf1dHU">https://www.aliyundrive.com/s/f5ps2gf1dHU</a></p><h3 id="密码破解工具"><a href="#密码破解工具" class="headerlink" title="密码破解工具"></a>密码破解工具</h3><p><mark class="hl-label blue">链接：</mark>  <a href="https://www.aliyundrive.com/s/GjHRR6QLUGj">https://www.aliyundrive.com/s/GjHRR6QLUGj</a></p><h3 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h3><p><mark class="hl-label blue">链接：</mark>  <a href="https://www.aliyundrive.com/s/ARteD7aGceW">https://www.aliyundrive.com/s/ARteD7aGceW</a></p><p><img src="/img/阿里云.gif" alt=""></p>]]></content>
+    
+    
+    <summary type="html">阿里云盘的链接</summary>
+    
+    
+    
+    
+    <category term="阿里云盘" scheme="https://polyueie.fun/tags/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一些有用资料的百度网盘链接</title>
+    <link href="https://polyueie.fun/undefined/35ea9aab.html"/>
+    <id>https://polyueie.fun/undefined/35ea9aab.html</id>
+    <published>2022-09-22T21:20:10.000Z</published>
+    <updated>2022-09-23T23:35:19.138Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="华为认证"><a href="#华为认证" class="headerlink" title="华为认证"></a>华为认证</h2><mark class="hl-label blue">链接：</mark>  [链接](https://pan.baidu.com/s/1n3QZD4WspuWMAfabUEbvHw)  <mark class="hl-label green">提取码：</mark> <span class="hide-inline"><button type="button" class="hide-button" style="">Click  </button><span class="hide-content">hjtl</span></span><h2 id="黑马程序员课程"><a href="#黑马程序员课程" class="headerlink" title="黑马程序员课程"></a>黑马程序员课程</h2><mark class="hl-label blue">链接：</mark>  [链接](https://pan.baidu.com/s/1UQCNeKZEpO0dy1tYrQWCsQ) <mark class="hl-label green">提取码：</mark> <span class="hide-inline"><button type="button" class="hide-button" style="">Click  </button><span class="hide-content">m2ra</span></span><h2 id="实习僧资料"><a href="#实习僧资料" class="headerlink" title="实习僧资料"></a>实习僧资料</h2><mark class="hl-label blue">链接：</mark>  [链接](https://pan.baidu.com/s/1ke1FwzPfz8CR3DIjhxa49Q)  <mark class="hl-label green">提取码：</mark> <span class="hide-inline"><button type="button" class="hide-button" style="">Click  </button><span class="hide-content">cia2</span></span><h2 id="雅思"><a href="#雅思" class="headerlink" title="雅思"></a>雅思</h2><mark class="hl-label blue">链接：</mark>  [链接](https://pan.baidu.com/s/1a_kbJkMNPpoFM-4UTvuirQ) <mark class="hl-label green">提取码：</mark> <span class="hide-inline"><button type="button" class="hide-button" style="">Click  </button><span class="hide-content">0uye</span></span><h2 id="慕课网python课程"><a href="#慕课网python课程" class="headerlink" title="慕课网python课程"></a>慕课网python课程</h2><mark class="hl-label blue">链接：</mark>  [链接](https://pan.baidu.com/s/1vpSaU30iKeFYCMjWVDQVoA ) <mark class="hl-label green">提取码：</mark> <span class="hide-inline"><button type="button" class="hide-button" style="">Click  </button><span class="hide-content">up09</span></span><p><img src="http://p5.itc.cn/q_70/images03/20210113/8a0c71e76f4b40ebb7303b2fb7ce2845.gif" alt=""></p>]]></content>
+    
+    
+    <summary type="html">百度网盘的链接</summary>
+    
+    
+    
+    
+    <category term="百度网盘" scheme="https://polyueie.fun/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/"/>
     
   </entry>
   
