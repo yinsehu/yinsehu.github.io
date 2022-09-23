@@ -106,7 +106,7 @@
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
       
-        <content type="html"><![CDATA[<p>好康的视频！</p><iframe src="//player.bilibili.com/player.html?aid=259713621&bvid=BV1ia411d7q4&cid=809173025&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+        <content type="html"><![CDATA[<p>好康的视频！</p><iframe src="//player.bilibili.com/player.html?aid=259713621&bvid=BV1ia411d7q4&cid=809173025&page=1" style="width:100%;height:100%;border:none;" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
       
     </entry>
     
