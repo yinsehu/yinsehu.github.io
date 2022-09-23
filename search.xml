@@ -106,7 +106,7 @@
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
       
-        <content type="html"><![CDATA[<p>好康的电影！</p><!-- mp4格式 --><p><video id="video" controls="" preload="none" poster="封面"><br>      <source id="mp4" src="/img/hexo.mp4" type="video/mp4"><br>&lt;/videos&gt;</p><!-- mp4格式 --><p><video id="video" controls="" preload="none" poster="封面"><br>      <source id="mp4" src="https://www.youtube.com/watch?v=y9W5aCKcqFU&t=3s&pp=2AEDkAIB" type="video/mp4"><br>&lt;/videos&gt;</p>]]></content>
+        <content type="html"><![CDATA[<p>好康的电影！</p><!-- mp4格式 --><p><video id="video" controls="" preload="none" poster="封面"><br>      <source id="mp4" src="/img/hexo.mp4" type="video/mp4"><br>&lt;/videos&gt;</p>]]></content>
       
     </entry>
     
