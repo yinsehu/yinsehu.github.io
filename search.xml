@@ -106,7 +106,7 @@
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
       
-        <content type="html"><![CDATA[<p>好康的电影！</p><!-- mp4格式 --><video id="video" controls="" preload="none" poster="封面">      <source id="mp4" src="/img/hexo.mp4" type="video/mp4"></videos><video src="https://www.bilibili.com/video/BV1ia411d7q4/?spm_id_from=333.999.0.0&vd_source=db01763a4799fb95ac51ddd3024bf7f6&t=5.9" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>]]></content>
+        <content type="html"><![CDATA[<p>好康的电影！</p><!-- mp4格式 --><p><video id="video" controls="" preload="none" poster="封面"><br>      <source id="mp4" src="/img/hexo.mp4" type="video/mp4"><br>&lt;/videos&gt;</p><iframe src="//player.bilibili.com/player.html?aid=259713621&bvid=BV1ia411d7q4&cid=809173025&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
       
     </entry>
     
@@ -117,7 +117,7 @@
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<p>唱跳rap篮球，music!</p><h1 id="aplayer音乐"><a href="#aplayer音乐" class="headerlink" title="aplayer音乐"></a>aplayer音乐</h1>]]></content>
+        <content type="html"><![CDATA[<h3 id="唱跳rap篮球，music"><a href="#唱跳rap篮球，music" class="headerlink" title="唱跳rap篮球，music!"></a>唱跳rap篮球，music!</h3><audio src="/img/只因你太美.mp3"></audio>]]></content>
       
     </entry>
     
