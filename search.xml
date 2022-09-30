@@ -163,6 +163,17 @@
     
     
     <entry>
+      <title>说说</title>
+      <link href="/artitalk/index.html"/>
+      <url>/artitalk/index.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="说说"><a href="#说说" class="headerlink" title="说说"></a>说说</h3><!-- 引用 artitalk --><script type="text/javascript" src="https://unpkg.com/artitalk"></script><!-- 存放说说的容器 --><div id="artitalk_main"></div><script>new Artitalk({    appId: 'jVL0v7zrdgi8uiUnu8li6Vxi-MdYXbMMI', // Your LeanCloud appId    appKey: '1XDCg67i6NnDAj6FPvT19aTV' // Your LeanCloud appKey})</script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
