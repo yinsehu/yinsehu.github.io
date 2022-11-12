@@ -34,7 +34,7 @@
       <link href="/undefined/73b190c7.html"/>
       <url>/undefined/73b190c7.html</url>
       
-        <content type="html"><![CDATA[<h2 id="图床教程—-picgo图床软件-github存储"><a href="#图床教程—-picgo图床软件-github存储" class="headerlink" title="图床教程—-picgo图床软件+github存储"></a>图床教程—-picgo图床软件+github存储</h2><blockquote><ol><li>picgo网站：<a href="https://github.com/Molunerfinn/PicGo/releases/tag/v2.3.1-beta.8">https://github.com/Molunerfinn/PicGo/releases/tag/v2.3.1-beta.8</a></li><li>下载并安装，之后打开图床设置，找到github</li><li>登陆github，新建一个仓库，名字无所谓（比如就叫image）</li><li>打开设置，选择左侧最下面的开发者设置，选择新建一个token，note随便填写（比如填image），只勾选repo，保存+复制token</li><li>在picgo的github里面填写信息。仓库名称是用户名/image。分支名是main（之前是master），token是刚刚生成的。</li><li>自定义域名可以填写：<a href="https://cdn.jsdelivr.net/用户名/仓库名">https://cdn.jsdelivr.net/用户名/仓库名</a></li><li>上传图片，即可复制url，成功</li></ol></blockquote>]]></content>
+        <content type="html"><![CDATA[<h2 id="图床教程—-picgo图床软件-github存储"><a href="#图床教程—-picgo图床软件-github存储" class="headerlink" title="图床教程—-picgo图床软件+github存储"></a>图床教程—-picgo图床软件+github存储</h2><div class="note success no-icon flat"><ol><li>picgo网站：<a href="https://github.com/Molunerfinn/PicGo/releases/tag/v2.3.1-beta.8">https://github.com/Molunerfinn/PicGo/releases/tag/v2.3.1-beta.8</a></li><li>下载并安装，之后打开图床设置，找到github</li><li>登陆github，新建一个仓库，名字无所谓（比如就叫image）</li><li>打开设置，选择左侧最下面的开发者设置，选择新建一个token，note随便填写（比如填image），只勾选repo，保存+复制token</li><li>在picgo的github里面填写信息。仓库名称是用户名/image。分支名是main（之前是master），token是刚刚生成的。</li><li>自定义域名可以填写：<a href="https://cdn.jsdelivr.net/用户名/仓库名">https://cdn.jsdelivr.net/用户名/仓库名</a></li><li>上传图片，即可复制url，成功</li></ol></div>]]></content>
       
       
       
