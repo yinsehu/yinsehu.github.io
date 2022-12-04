@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://polyueie.fun/java/index.html</loc>
-    
-    <lastmod>2022-12-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://polyueie.fun/link/index.html</loc>
     
     <lastmod>2022-12-04</lastmod>
@@ -56,25 +47,16 @@
   </url>
   
   <url>
-    <loc>https://polyueie.fun/undefined/8a8579be.html</loc>
-    
-    <lastmod>2022-12-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://polyueie.fun/undefined/4a17b156.html</loc>
-    
-    <lastmod>2022-12-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://polyueie.fun/undefined/4eda5799.html</loc>
+    
+    <lastmod>2022-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://polyueie.fun/undefined/2b32338b.html</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -181,6 +163,33 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://polyueie.fun/undefined/8a8579be.html</loc>
+    
+    <lastmod>2022-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://polyueie.fun/undefined/4a17b156.html</loc>
+    
+    <lastmod>2022-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://polyueie.fun/undefined/f96fffa2.html</loc>
+    
+    <lastmod>2022-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://polyueie.fun/</loc>
@@ -189,6 +198,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://polyueie.fun/tags/java/</loc>
+    <lastmod>2022-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://polyueie.fun/tags/%E5%9B%BE%E5%BA%8A/</loc>
@@ -233,5 +249,12 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://polyueie.fun/categories/java/</loc>
+    <lastmod>2022-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
